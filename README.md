@@ -69,7 +69,7 @@ st version of docker-compose supported is 3.1
 NOTES
 =====
 
-Tested on MacchiatoBin and ThunderxV1
+Tested on MacchiatoBin, OverDRive 1000 and ThunderxV1
 
 
 Prerequisites
