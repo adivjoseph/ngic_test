@@ -4,7 +4,7 @@ install docker
 
 `sudo apt-get install docker.io`
 
-install docker server version 1.3.1
+install docker server version 1.13.1
 
 ```shell
  Containers: 26
